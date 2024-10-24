@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hermyp
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C++, OpenGL
+- 🌱 I’m currently learning C/C++, OpenGL
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
