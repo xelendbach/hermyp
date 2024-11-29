@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hermyp
+- 👋 Hi, I’m @xelendbach. Formerly known as @hermyp
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning C/C++, OpenGL
 <!--
